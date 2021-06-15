@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img align="top"src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaeduarda-rg&layout=compact&hide=shell&theme=midnight-purple"/>
 </div>
 
-![Snake animation](https://github.com/AlanCJO/AlanCJO-rg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlanCJO/juliaeduarda-rg/blob/output/github-contribution-grid-snake.svg)
 
